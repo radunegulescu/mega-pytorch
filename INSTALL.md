@@ -54,7 +54,7 @@ python setup.py build_ext install
 # install PyTorch Detection
 cd $INSTALL_DIR
 git clone https://github.com/radunegulescu/mega-pytorch.git
-cd mega.pytorch
+cd mega-pytorch
 
 # the following will install the lib with
 # symbolic links, so that you can modify
