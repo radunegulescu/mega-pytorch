@@ -53,7 +53,7 @@ python setup.py build_ext install
 
 # install PyTorch Detection
 cd $INSTALL_DIR
-git clone https://github.com/Scalsol/mega.pytorch.git
+git clone https://github.com/radunegulescu/mega-pytorch.git
 cd mega.pytorch
 
 # the following will install the lib with
