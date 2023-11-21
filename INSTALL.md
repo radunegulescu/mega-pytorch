@@ -29,7 +29,7 @@ pip install ninja yacs cython matplotlib tqdm opencv-python scipy
 
 # follow PyTorch installation in https://pytorch.org/get-started/locally/
 # we give the instructions for CUDA 10.0
-conda install pytorch=1.3.0 torchvision cudatoolkit=10.0 -c pytorch
+conda install pytorch=1.2.0 torchvision=0.4.0 cudatoolkit=10.0 -c pytorch
 
 export INSTALL_DIR=$PWD
 
@@ -49,7 +49,7 @@ python setup.py build_ext install
 cd $INSTALL_DIR
 git clone https://github.com/NVIDIA/apex.git
 cd apex
-python setup.py install --cuda_ext --cpp_ext
+python setup.py build_ext install
 
 # install PyTorch Detection
 cd $INSTALL_DIR
