@@ -11,7 +11,7 @@
 - CUDA >= 9.2
 
 
-### Option 1: Step-by-step installation
+###Step-by-step installation
 
 ```bash
 # first, make sure that your conda is setup properly with the right environment
