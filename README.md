@@ -8,7 +8,7 @@ Please follow [INSTALL.md](INSTALL.md) for installation instructions, in order t
 
 ## Pretrained models
 
-Pretrained models to download in the mega-pytorch root folder, in order to run the demo:
+Pretrained models, that need to be downloaded in the mega-pytorch root folder, in order to run the demos using the 2 different approaches:
 
 Model | Backbone | AP50 | AP (fast) | AP (med) | AP (slow) | Link
 :---: | :---: | :---: | :---: | :---: | :---: |:---:
