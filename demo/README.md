@@ -2,7 +2,7 @@
 
 Currently the demo supports visualization for:
 - Image Folder: A set of frames that were decoded from a given video.
-- Video: I only tested `.mp4`, but other video format should be OK.
+- Video: Only tested `.mp4` and `.avi`, but other video format should be OK.
 
 ## Inference on a image folder
 
