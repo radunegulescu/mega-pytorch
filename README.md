@@ -2,8 +2,7 @@
 
 By [Smeu Stefan](https://github.com/MrNiceGuy090), [Negulescu Radu-Andrei](https://github.com/radunegulescu).
 
-This repo is an unofficial implementation of ["Memory Enhanced Global-Local Aggregation for Video Object Detection"](https://arxiv.org/abs/2003.12063), accepted by CVPR 2020. This repository contains a PyTorch implementation of the approach MEGA based on [maskrcnn_benchmark](https://github.com/facebookresearch/maskrcnn-benchmark), as well as some training scripts to reproduce the results on ImageNet VID reported in the paper. 
-The purpose of this repo is to run video object detection, using 2 approaches, depicted in the paper: base and MEGA. They can be applied on particular videos and image folders.
+This repo is a faculty project for the Deep Learning for Video Signal Processing course. It's purpose is offering a practical guidance for running video object detection using 2 approaches: base and MEGA. It is derived from the official github [repository](https://github.com/Scalsol/mega.pytorch) of the ["Memory Enhanced Global-Local Aggregation for Video Object Detection"](https://arxiv.org/abs/2003.12063), accepted by CVPR 2020. The purpose of this repo, depicted in the demo, is to run video object detection, using these 2 approaches on particular videos and image folders.
 
 ## Pretrained models
 
