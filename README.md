@@ -11,9 +11,9 @@ Model | Backbone | AP50 | AP (fast) | AP (med) | AP (slow) | Link
 base | ResNet-101 | 76.7 | 52.3 | 74.1 | 84.9 | [Google](https://drive.google.com/file/d/1W17f9GC60rHU47lUeOEfU--Ra-LTw3Tq/view?usp=sharing)
 **MEGA** | ResNet-101 | 82.9 | 62.7| 81.6 | 89.4 | [Google](https://drive.google.com/file/d/1ZnAdFafF1vW9Lnpw-RPF1AD_csw61lBY/view?usp=sharing)
 
-## Installation
+## Prerequisites
 
-Please follow [INSTALL.md](INSTALL.md) for installation instructions.
+Please follow [INSTALL.md](INSTALL.md) for installation instructions, in order to be able to run the demo.
 
 ## Data preparation
 
