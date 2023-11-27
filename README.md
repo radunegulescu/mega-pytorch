@@ -4,11 +4,11 @@ This repo is a faculty project for the Deep Learning for Video Signal Processing
 
 ## Prerequisites
 
-Please follow [INSTALL.md](INSTALL.md) for installation instructions, in order to be able to run the demo.
+Please follow [INSTALL.md](INSTALL.md) for installation instructions, in order to run the demo.
 
 ## Pretrained models
 
-Pretrained models to download in the mega-pytorch root folder in order to run the demo:
+Pretrained models to download in the mega-pytorch root folder, in order to run the demo:
 
 Model | Backbone | AP50 | AP (fast) | AP (med) | AP (slow) | Link
 :---: | :---: | :---: | :---: | :---: | :---: |:---:
