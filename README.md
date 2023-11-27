@@ -15,9 +15,5 @@ base | ResNet-101 | 76.7 | 52.3 | 74.1 | 84.9 | [Google](https://drive.google.co
 
 Please follow [INSTALL.md](INSTALL.md) for installation instructions, in order to be able to run the demo.
 
-## Data preparation
-
-Please download the image folder from [here](https://github.com/radunegulescu/mega-pytorch/tree/master/image_folder) and the videos from [here](https://github.com/radunegulescu/mega-pytorch/tree/master/videos_folder), in order to run the demo on the image folder and videos.
-
 ### Demo Usage
 Please follow [demo/README.md](demo/README.md) to see how to visualize the images or video.
