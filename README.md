@@ -1,8 +1,6 @@
 # MEGA for Video Object Detection
 
-By [Smeu Stefan](https://github.com/MrNiceGuy090), [Negulescu Radu-Andrei](https://github.com/radunegulescu).
-
-This repo is a faculty project for the Deep Learning for Video Signal Processing course. It's purpose is offering a practical guidance for running video object detection using 2 approaches: base and MEGA. It is derived from the official github [repository](https://github.com/Scalsol/mega.pytorch) of the ["Memory Enhanced Global-Local Aggregation for Video Object Detection"](https://arxiv.org/abs/2003.12063), accepted by CVPR 2020. The purpose of this repo, depicted in the demo, is to run video object detection, using these 2 approaches on particular videos and image folders.
+This repo is a faculty project for the Deep Learning for Video Signal Processing course. It's purpose is offering a practical guidance for running video object detection using 2 approaches: base and MEGA. It is derived from the official github [repository](https://github.com/Scalsol/mega.pytorch) of the ["Memory Enhanced Global-Local Aggregation for Video Object Detection"](https://arxiv.org/abs/2003.12063), accepted by CVPR 2020. The purpose of this repo, depicted in the demo, is to run video object detection, using these 2 approaches on particular videos and image folders. This practical implementaion is done by: By [Smeu Stefan](https://github.com/MrNiceGuy090), [Negulescu Radu-Andrei](https://github.com/radunegulescu).
 
 ## Pretrained models
 
